@@ -1,0 +1,12 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.excuse {
+    text-align: center;
+    margin-top: 25vh;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
